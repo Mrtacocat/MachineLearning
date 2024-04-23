@@ -1,0 +1,51 @@
+id,rating,review_comment,genre,gender
+1,8.5,"Fantastisk film! Anbefales på det sterkeste. Skuespillet er utrolig, og historien griper deg fra begynnelse til slutt.",Action,M
+2,7.2,"En fin dramafilm med gode skuespillerprestasjoner. Historien kunne vært litt mer engasjerende, men totalt sett en verdig opplevelse.",Drama,F
+3,9.0,"Dette er en spennende thriller som holder deg på kanten av stolen hele veien. Anbefales for alle som elsker å bli overrasket.",Thriller,M
+4,6.8,"En romantisk film med en hjertevarmende historie, men noen scener føltes litt klisjé. Likevel, en fin opplevelse for en kveld med kjæresten.",Romantikk,F
+5,8.3,"Fantastisk visuell effekter og et spennende plott gjør dette til en uforglemmelig science fiction-opplevelse. Absolutt verdt å se!",Science Fiction,M
+6,7.9,"En fin film som balanserer humor og alvor på en fantastisk måte. Skuespillerne er strålende, og historien er rørende. Anbefales på det sterkeste.",Drama,F
+7,8.1,"Denne actionfylte filmen tar pusten fra deg med sine spektakulære scener. En perfekt film for en actionelsker!",Action,M
+8,6.5,"Historien er interessant, men filmen mangler litt dybde. Likevel en god underholdning for en kveld hjemme.",Thriller,F
+9,9.2,"En av de beste romantiske filmene jeg har sett på lenge. Historien er rørende og skuespillerprestasjonene er fantastiske. Anbefales for alle som elsker romantikk.",Romantikk,M
+10,7.6,"Denne science fiction-filmen tar deg med på en spennende reise gjennom tid og rom. Visuelle effekter er imponerende, og historien er fengslende.",Science Fiction,F
+11,8.7,"En actionfylt opplevelse med spenning fra start til slutt. Perfekt for en kveld med venner!",Action,M
+12,7.3,"En hjertevarmende dramafilm med sterke skuespillerprestasjoner. Historien griper deg og gir deg mye å tenke på.",Drama,F
+13,8.9,"Spennende og uforutsigbar. Denne thrilleren holder deg på kanten av stolen hele tiden. Anbefales for alle som elsker spenning.",Thriller,M
+14,6.9,"En romantisk film som får deg til å smile og le. Perfekt for en kveld med din kjære.",Romantikk,F
+15,8.4,"Science fiction på sitt beste! Denne filmen tar deg med på et episk eventyr gjennom galaksen. En must-see for alle sci-fi-fans.",Science Fiction,M
+16,7.8,"En tankevekkende dramafilm med sterke skuespillerprestasjoner. Historien etterlater et sterkt inntrykk.",Drama,F
+17,8.2,"En adrenalinpumpende actionfilm med spektakulære stunt og imponerende effekter. Garantert underholdning!",Action,M
+18,6.7,"En spennende thriller med et overraskende plott. Holder deg fanget til siste sekund.",Thriller,F
+19,9.5,"En rørende romantisk film som vil få deg til å gråte og le. Sterke følelser og flotte skuespillerprestasjoner.",Romantikk,M
+20,7.4,"Science fiction-fans vil elske denne filmen. Visuelle effekter og actionscener er imponerende.",Science Fiction,F
+21,8.6,"En actionfilm som setter pulsen i høygir. Enkel underholdning med masse spenning!",Action,M
+22,7.1,"En dramafilm som berører hjertet. Sterke skuespillerprestasjoner og en gripende historie.",Drama,F
+23,8.8,"En nervepirrende thriller som holder deg på tå hev hele tiden. Garantert å gi deg frysninger nedover ryggen.",Thriller,M
+24,6.6,"En romantisk komedie som får deg til å le høyt. Perfekt for en koselig kveld hjemme.",Romantikk,F
+25,8.0,"En episk science fiction-film med imponerende visuelle effekter. Historien tar deg med på en utrolig reise gjennom tid og rom.",Science Fiction,M
+26,7.7,"En gripende dramafilm med sterke følelser og fantastiske skuespillerprestasjoner. Absolutt verdt å se!",Drama,F
+27,8.3,"En spennende actionfilm med spektakulære stunt og imponerende effekter. Perfekt for en actionfylt kveld!",Action,M
+28,6.4,"En thriller som holder deg på kanten av stolen. Spennende fra start til slutt!",Thriller,F
+29,9.1,"En romantisk film som varmer hjertet. Sterke følelser og et gripende plott.",Romantikk,M
+30,7.5,"En underholdende science fiction-film med spennende action og imponerende visuelle effekter.",Science Fiction,F
+31,8.9,"En actionfilm med høyt tempo og spennende scener. Perfekt for en adrenalinfylt kveld!",Action,M
+32,7.2,"En gripende dramafilm med sterke skuespillerprestasjoner og en rørende historie.",Drama,F
+33,8.7,"En thriller som holder deg på kanten av stolen hele veien. Spennende og uforutsigbar.",Thriller,M
+34,6.9,"En romantisk komedie som får deg til å le og gråte. Sterke følelser og masse humor.",Romantikk,F
+35,8.4,"En science fiction-film som tar deg med på en utrolig reise. Visuelle effekter og handling er fantastisk.",Science Fiction,M
+36,7.8,"En dramafilm som utforsker komplekse emosjonelle temaer. Sterke skuespillerprestasjoner og en gripende historie.",Drama,F
+37,8.2,"En actionfilm med spenning og adrenalinkick. Perfekt for en kveld med action og eventyr!",Action,M
+38,6.7,"En thriller som holder deg på kanten av stolen. Spennende fra start til slutt!",Thriller,F
+39,9.3,"En romantisk film som treffer hjertestrengene. Sterke følelser og en rørende historie.",Romantikk,M
+40,7.4,"En science fiction-film som tar deg med på en spennende reise gjennom ukjent territorium. Visuelle effekter er imponerende.",Science Fiction,F
+41,8.7,"En actionfilm som holder deg på kanten av stolen. Spennende og full av overraskelser!",Action,M
+42,7.1,"En dramafilm med sterke skuespillerprestasjoner og en gripende historie. Absolutt verdt å se.",Drama,F
+43,8.6,"En thriller som holder deg på tå hev hele tiden. Uforutsigbar og spennende fra start til slutt.",Thriller,M
+44,6.6,"En romantisk komedie som får deg til å le og smile. Perfekt for en kveld med venner.",Romantikk,F
+45,7.9,"En science fiction-film som tar deg med på et eventyr gjennom tid og rom. Visuelle effekter er imponerende.",Science Fiction,M
+46,7.3,"En dramafilm med sterke følelser og en gripende historie. Absolutt verdt å se.",Drama,F
+47,8.0,"En actionfilm med spenning fra start til slutt. Garantert underholdning for actionelskere!",Action,M
+48,6.3,"En thriller som holder deg på kanten av stolen. Spennende og uforutsigbar.",Thriller,F
+49,9.0,"En romantisk film som får deg til å tro på kjærlighet. Rørende og inspirerende.",Romantikk,M
+50,7.5,"En science fiction-film med spennende handling og imponerende visuelle effekter.",Science Fiction,F
