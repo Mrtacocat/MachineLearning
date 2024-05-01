@@ -1,0 +1,51 @@
+id,rating,genre,gender,age
+1,8.5,Action,1,35
+2,7.2,Drama,0,22
+3,9.0,Thriller,1,41
+4,6.8,Romantikk,0,28
+5,8.3,Science Fiction,1,39
+6,7.9,Drama,0,23
+7,8.1,Action,1,30
+8,6.5,Thriller,0,48
+9,9.2,Romantikk,1,42
+10,7.6,Science Fiction,0,25
+11,8.7,Action,1,19
+12,7.3,Drama,0,34
+13,8.9,Thriller,1,27
+14,6.9,Romantikk,0,20
+15,8.4,Science Fiction,1,45
+16,7.8,Drama,0,36
+17,8.2,Action,1,29
+18,6.7,Thriller,0,44
+19,9.5,Romantikk,1,37
+20,7.4,Science Fiction,0,46
+21,8.6,Action,1,49
+22,7.1,Drama,0,26
+23,8.8,Thriller,1,40
+24,6.6,Romantikk,0,21
+25,8.0,Science Fiction,1,38
+26,7.7,Drama,0,18
+27,8.3,Action,1,24
+28,6.4,Thriller,0,47
+29,9.1,Romantikk,1,31
+30,7.5,Science Fiction,0,33
+31,8.9,Action,1,32
+32,7.2,Drama,0,50
+33,8.7,Thriller,1,43
+34,6.9,Romantikk,0,35
+35,8.4,Science Fiction,1,22
+36,7.8,Drama,0,27
+37,8.2,Action,1,45
+38,6.7,Thriller,0,29
+39,9.3,Romantikk,1,26
+40,7.4,Science Fiction,0,47
+41,8.7,Action,1,36
+42,7.1,Drama,0,41
+43,8.6,Thriller,1,30
+44,6.6,Romantikk,0,19
+45,7.9,Science Fiction,1,28
+46,7.3,Drama,0,22
+47,8.0,Action,1,39
+48,6.3,Thriller,0,24
+49,9.0,Romantikk,1,34
+50,7.5,Science Fiction,0,25
